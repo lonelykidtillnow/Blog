@@ -1,3 +1,2 @@
-# Blog
-
-![{BA58DA08-9662-4A14-B2DA-294F9278B2B0}](https://github.com/user-attachments/assets/c05c1c2b-8e1f-4a24-a032-3a79cae3662d)
+1.Home page :
+"C:\Users\rmuru\Downloads\screencapture-localhost-3000-bussiness-2025-03-26-08_54_41.png"
